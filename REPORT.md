@@ -4,7 +4,7 @@ Variant: A
 Kuupäev: 09.10.2026
 
 ## Töö käik ja metoodika
-Analüüsisin `sa-test` repositooriumis olevaid skripte, otsisin koodist üles loogikavead ning parandasin need. Testimiseks käivitasin skripte käsureal, võrdlesin tulemusi süsteemi tegelike andmetega ja vajadusel jooksuasin koodi silumisrežiimis (`bash -x`). Iga paranduse kohta tegin eraldi Git commit'i ning laadisin lahenduse oma GitHubi repositooriumisse.
+Analüüsisin `sa-test` repositooriumis olevaid skripte, otsisin koodist üles loogikavead ning parandasin need. Testimiseks käivitasin skripte käsureal, võrdlesin tulemusi süsteemi tegelike andmetega.
 
 ---
 
